@@ -1,4 +1,4 @@
-# AscenderoWebApplication </br>
+# Calories Tracker Application </br>
 
 **Output** </br>
 Folder ScreenRecordingOutput contains recording of the output for convinience. Output recording shows working of app, EdgeCasesOutput recording shows how the edge cases and errors have been handled. 
