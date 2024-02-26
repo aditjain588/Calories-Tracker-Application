@@ -1,0 +1,24 @@
+.calorieGoalHeader{
+    height: 5px;
+    padding: 40px;
+    text-align: center;
+    background: purple;
+    color: white;
+    font-size: 20px;
+}
+
+.caloriesCalculator label{
+    padding:0;
+	margin:5px;
+	list-style:none;
+}
+
+.foodConsumedSubmitBtn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    height: 30px;
+    width: 80px;
+}
